@@ -38,17 +38,19 @@ A simple web-based application that generates QR codes from text or URLs. This p
 ---
 
 ## 📸 Screenshots
+## Screenshots
 ### Input Section:
 The user-friendly interface for entering text or URLs:
 
-![image](![image](https://github.com/user-attachments/assets/b41c3121-c286-4f01-a69c-6cc96827e171)
+![Input Section](![image](https://github.com/user-attachments/assets/ab4d46a9-1359-4189-bf95-56ffb4af0b82)
 )
 
 ### Generated QR Code:
 Responsive display of the QR code:
 
-![image](![image](https://github.com/user-attachments/assets/38ce5cc6-73da-4e3b-af55-86a374a8905a)
+![Generated QR Code](![image](https://github.com/user-attachments/assets/42d18c12-6ace-45a4-8204-c561d2c802f1)
 )
+
 
 ---
 
