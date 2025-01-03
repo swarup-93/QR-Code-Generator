@@ -27,6 +27,12 @@ A simple web-based application that generates QR codes from text or URLs. This p
 
 ---
 
+## 🌐 Live Preview
+Check out the live preview of the project:  
+[QR Code Generator](https://swarup-93.github.io/QR-Code-Generator/)
+
+---
+
 ## ⚙️ Installation and Usage
 ### Steps to Run the Project:
 1. Clone the repository:
