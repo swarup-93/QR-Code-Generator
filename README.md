@@ -1,4 +1,4 @@
-# 📱 QR Code Generator  
+# 📱 The QR Code Generator  
 
 A simple web-based application that generates QR codes from text or URLs. This project is designed to be user-friendly and responsive, providing a seamless experience for users.
 
